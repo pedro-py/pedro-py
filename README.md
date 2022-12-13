@@ -1,6 +1,6 @@
-### Hi there! Eu sou o Pedro
+### Olá! Eu sou o Pedro
 
-- 🌱 I’m currently learning HTML e CSS
+- 🌱 Estou aprendendo HTML e CSS
 ##
 <div align="center">
   <a href="https://github.com/pedro-py">
