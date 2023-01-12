@@ -4,7 +4,7 @@
 ##
 <div align="center">
   <a href="https://github.com/pedro-py">
-  <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username =pedro-py&show_icons=true&theme=dark">
+  <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username =pedro-py&&show_icons=true&theme=dark">
   <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pedro-py&layout=compact&langs_count=7&theme=dark">
 </div>
 <div style="display: inline_block"><br>
